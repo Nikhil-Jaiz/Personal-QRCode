@@ -5,3 +5,5 @@ Features
 * Generate QR codes with custom personal information.
 * Save generated QR codes as PNG images.
 * Easy-to-use command-line interface.
+
+![Alt Text](My_QR.png)
